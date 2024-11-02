@@ -12,7 +12,7 @@ The store wants to create an sales report there by the stakeholders can understa
 
 -Merge all pivot tables into a dashboard and apply slicer to make dynamic.
 
-##Dashboard
+## Dashboard
 <a href="https://github.com/ANSHEENA-KACHINIKKAD/Data-analysis-Dashboard/blob/main/sales_report.docx">Dashboard</a>
 
 
